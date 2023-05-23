@@ -3,11 +3,26 @@ body {
 }
 
 h1 {
+    width: 300px;
+    margin: auto;
+    padding: 30px;
     text-align: center;
     color: rgb(221, 116, 18);
     background-color: rgb(241, 239, 119);
     font-size: 40px;
     font-style: italic;
+}
+
+.img {
+    display: block;
+    margin: auto;
+    padding: 25px;
+}
+
+div {
+    width: 700px;
+    margin: 20px auto;
+    background-color: rgb(206, 236, 225);
 }
 
 .odd {
